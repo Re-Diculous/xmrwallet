@@ -348,10 +348,10 @@
     <string name="progress_nfc_write">NFC-Tag wird beschrieben</string>
     <string name="nfc_write_failed">Beschreibung fehlgeschlagen!</string>
     <string name="nfc_write_successful">Beschreibung erfolgreich</string>
-    <string name="nfc_tag_unsupported">NFC-Tag unterstütz kein NDEF!</string>
-    <string name="nfc_tag_size">NFC-Tag verfügt nur über %d Bytes, statt benötigten %d!</string>
+    <string name="nfc_tag_unsupported">NFC-Tag unterstützt kein NDEF!</string>
+    <string name="nfc_tag_size">NFC-Tag verfügt nur über %d Bytes, statt benötigter %d!</string>
     <string name="nfc_tag_read_undef">Ich verstehe den NFC-Tag nicht!</string>
-    <string name="nfc_tag_read_what">Mir ist nicht klar was Du möchtest!</string>
-    <string name="nfc_tag_read_success">NFC-Tag Ablesung erfolgreich!</string>
+    <string name="nfc_tag_read_what">Mir ist nicht klar, was Du möchtest!</string>
+    <string name="nfc_tag_read_success">NFC-Tag Auslesung erfolgreich!</string>
     <string name="nfc_tag_tap">NFC verfügbar!</string>
 </resources>
